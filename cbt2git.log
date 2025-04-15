@@ -1,5 +1,5 @@
-2025-04-15 01:34:22.501692 - Received CBT.V508.FILE329.PDS from FILE329.XMI 
-2025-04-15 01:34:22.502831 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/$$$#DATE
-2025-04-15 01:34:22.503169 - Found @FILE329.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/@FILE329
-2025-04-15 01:34:22.503404 - Found DOC.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/DOC
-2025-04-15 01:34:22.504313 - Found EXIT6.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/EXIT6
+2025-04-15 20:22:17.235647 - Received CBT.V508.FILE329.PDS from FILE329.XMI 
+2025-04-15 20:22:17.236976 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:22:17.237055 - Found @FILE329.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/@FILE329
+2025-04-15 20:22:17.237393 - Found DOC.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/DOC
+2025-04-15 20:22:17.238609 - Found EXIT6.txt (text/plain) in CBT.V508.FILE329.PDS, moved to PDS/EXIT6
